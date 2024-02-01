@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @rzheutskiy (Artem Rzheutskiy)
+- 👀 I’m interested in analytics
+- 🌱 I’m currently learning Python, SQL and math statistics
+- 💞️ I’m looking to collaborate on analytics projects
+- 📫 How to reach me: https://t.me/artemrzheutskiy, https://vk.com/id165277014
+- ⚡ Fun fact: I really into workout, cars and learning English!
